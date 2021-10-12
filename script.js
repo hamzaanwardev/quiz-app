@@ -94,4 +94,4 @@ submitBtn.addEventListener('click', () => {
             `
         }
     }
-})
+});
